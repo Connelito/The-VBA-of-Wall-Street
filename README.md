@@ -4,7 +4,7 @@
 
 I will use VBA scripting to analyze stock market data using this [test data](Resources/alphabetical_testing.xlsx) while developing my scripts and this [stock data](Resources/Multiple_year_stock_data.xlsx) to run my scripts to generate the final report.
 
-### Stock market analyst
+### Retrival of Data, Column Creation and Conditional Formatting
 
   ![Stock Market](Images/stockmarket.jpg)
 
