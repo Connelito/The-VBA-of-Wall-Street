@@ -19,9 +19,9 @@ I also utilized conditional formatting that will highlight positive yearly chang
 
 * These are the results.
 
-![2014_Stock_Data](Images/2014_multi_year_stock_data.png)
-![2015_Stock_Data](Images/2015_multi_year_stock_data.png)
-![2016_Stock_Data](Images/2016_multi_year_stock_data.png)
+![2014_Stock_Data](Images/2014_stock_data.png)
+![2015_Stock_Data](Images/2015_stock_data.png)
+![2016_Stock_Data](Images/2016_stock_data.png)
 
   - - -
 
