@@ -2,7 +2,7 @@
 
 ## Summary
 
-I will use VBA scripting to analyze [stock market data](Resources/2014-2016_stock_data.xlsx) while developing my scripts to generate a [final report](Resources/2014-2016_stock_data_formatted.xlsx).
+I will use VBA scripting to analyze [stock market data](Resources/2014-2016_stock_data.xlsx) while developing my scripts to generate a [final report](Resources/2014-2016_stock_data_formatted.xlsm).
 
 ### Retrival of Data, Column Creation and Conditional Formatting
 
