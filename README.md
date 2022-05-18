@@ -27,4 +27,4 @@ I also utilized conditional formatting that will highlight positive yearly chang
 
 Contact Information:
 * [LinkedIn](https://www.linkedin.com/in/DConnellyII)
-* [E-mail]Darryl.Connelly.II@gmail.com
+* [E-mail](Darryl.Connelly.II@gmail.com)
